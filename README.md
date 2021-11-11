@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViyanMd
 - 👀 I’m interested in front-end development and design.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on simple front-end projects.
 - 📫 How to reach me viyanomd@gmail.com
 
